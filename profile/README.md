@@ -24,7 +24,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/wbn-letras/.github/assets/placeholder.png" width="80%" alt="Divisor Estilizado" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Uft_logo.png" width="150px" alt="Logo UFT" />
   <!-- Dica: Você pode trocar o link acima por uma imagem da UFT ou uma linha divisória bonita -->
 </div>
 
