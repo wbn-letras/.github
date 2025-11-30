@@ -56,10 +56,8 @@ Esta organização (`wbn-letras`) atua como a infraestrutura tecnológica para o
       <br />
       <sub>(Autora Intelectual / Proprietária)</sub>
     </td>
-
-    <!-- VOCÊ (Programador) -->
     <td align="center" width="50%">
-      <!-- ATENÇÃO: Troque SEU-USUARI pelo seu nick do GitHub abaixo -->
+      <!-- Naygno (Suporte Técnico) -->
       <a href="https://github.com/Naygno">
         <img src="https://github.com/Naygno.png" width="100px;" alt="" style="border-radius:50%"/>
         <br />
