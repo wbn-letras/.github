@@ -59,9 +59,9 @@ Esta organização (`wbn-letras`) atua como a infraestrutura tecnológica para o
 
     <!-- VOCÊ (Programador) -->
     <td align="center" width="50%">
-      <!-- ATENÇÃO: Troque SEU-USUARIO pelo seu nick do GitHub abaixo -->
+      <!-- ATENÇÃO: Troque SEU-USUARI pelo seu nick do GitHub abaixo -->
       <a href="https://github.com/Naygno">
-        <img src="https://github.com/naygno.png" width="100px;" alt="" style="border-radius:50%"/>
+        <img src="https://github.com/Naygno.png" width="100px;" alt="" style="border-radius:50%"/>
         <br />
         <b>Responsável Técnico</b>
       </a>
