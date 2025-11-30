@@ -1,67 +1,75 @@
 <div align="center">
 
-  <!-- Título / Logo -->
+  <!-- Logo UFT -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Uft_logo.png" width="120px" alt="Logo UFT" />
+  
+  <br /><br />
+
   <h1>📚 Mestrado em Letras - UFT</h1>
-  <h3>Universidade Federal do Tocantins | Câmpus Porto Nacional</h3>
+  <h3>Câmpus Porto Nacional</h3>
 
   <p>
-    <b>Organização Acadêmica de Pesquisa e Desenvolvimento em LaTeX</b>
+    <b>Ambiente de Desenvolvimento e Versionamento da Dissertação</b>
   </p>
 
   <br />
 
-  <!-- Botões de Navegação Rápida -->
+  <!-- Botões -->
   <a href="https://github.com/wbn-letras/mestrado-letras">
     <img src="https://img.shields.io/badge/Acessar_Dissertação-LaTeX-005b96?style=for-the-badge&logo=latex&logoColor=white" alt="Dissertação" />
   </a>
   
-  <a href="https://ww2.uft.edu.br/ppgletras">
-    <img src="https://img.shields.io/badge/Site_Oficial-PPG_Letras-green?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Site UFT" />
+  <!-- Link atualizado para a página principal da UFT para evitar erros -->
+  <a href="https://www.uft.edu.br/">
+    <img src="https://img.shields.io/badge/Portal_UFT-Institucional-green?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Portal UFT" />
   </a>
 
 </div>
 
 <br />
 
-<div align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Uft_logo.png" width="150px" alt="Logo UFT" />
-  <!-- Dica: Você pode trocar o link acima por uma imagem da UFT ou uma linha divisória bonita -->
-</div>
+---
+
+### 📌 Sobre o Projeto
+Esta organização (`wbn-letras`) atua como a infraestrutura tecnológica para o desenvolvimento da pesquisa de Mestrado Acadêmico em Letras. O objetivo é unir o rigor acadêmico com as melhores práticas de engenharia de software (versionamento e automação).
+
+**Estrutura de Trabalho:**
+*   📝 **Produção Acadêmica:** Escrita, fichamentos e pesquisa bibliográfica.
+*   💻 **Engenharia:** Manutenção dos templates LaTeX, automação de referências (BibTeX) e CI/CD.
 
 ---
 
-### 📌 Sobre a Organização
-Esta organização (`wbn-letras`) funciona como o repositório central para os trabalhos desenvolvidos no âmbito do Mestrado Acadêmico em Letras.
+### 👥 Equipe do Projeto
 
-**Objetivos:**
-*   📦 **Centralizar:** Manter backups seguros da dissertação e fichamentos.
-*   🔄 **Versionar:** Acompanhar a evolução do texto desde o anteprojeto até a defesa.
-*   📝 **Padronizar:** Utilizar LaTeX e ABNT2 para garantir a formatação automática.
-
----
-
-### 👥 Membros e Colaboradores
 <table>
   <tr>
-    <td align="center">
+    <!-- WILDA (Pesquisadora) -->
+    <td align="center" width="50%">
       <a href="https://github.com/wildanoia">
-        <img src="https://github.com/wildanoia.png" width="80px;" alt="" style="border-radius:50%"/>
+        <img src="https://github.com/wildanoia.png" width="100px;" alt="" style="border-radius:50%"/>
         <br />
         <b>Wildanoia</b>
       </a>
       <br />
-      (Pesquisador/Admin)
+      <br />
+      🎓 <b>Mestranda & Pesquisadora</b>
+      <br />
+      <sub>(Autora Intelectual / Proprietária)</sub>
     </td>
-    <!-- Adicione o usuário do seu amigo abaixo -->
-    <td align="center">
-       <!-- Troque SEU-AMIGO pelo usuário dele -->
+
+    <!-- VOCÊ (Programador) -->
+    <td align="center" width="50%">
+      <!-- ATENÇÃO: Troque SEU-USUARIO pelo seu nick do GitHub abaixo -->
       <a href="https://github.com/Naygno">
-        <img src="https://github.com/Naygno.png" width="80px;" alt="" style="border-radius:50%"/>
+        <img src="https://github.com/naygno.png" width="100px;" alt="" style="border-radius:50%"/>
         <br />
-        <b>Colaborador</b>
+        <b>Responsável Técnico</b>
       </a>
       <br />
-      (Co-Admin/Revisor)
+      <br />
+      ⚙️ <b>Programador & DevOps</b>
+      <br />
+      <sub>(Manutenção LaTeX / Git)</sub>
     </td>
   </tr>
 </table>
@@ -69,5 +77,5 @@ Esta organização (`wbn-letras`) funciona como o repositório central para os t
 <br />
 
 <div align="center">
-  <sub>Ambiente mantido por pesquisadores da UFT - Porto Nacional/TO</sub>
+  <sub>Desenvolvido no Câmpus de Porto Nacional - TO</sub>
 </div>
